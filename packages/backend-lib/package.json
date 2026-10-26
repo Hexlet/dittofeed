@@ -39,7 +39,7 @@
     "@temporalio/common": "1.11.6",
     "@temporalio/worker": "1.11.6",
     "@temporalio/workflow": "1.11.6",
-    "axios": "^1.4.0",
+    "axios": "^1.13.5",
     "change-case": "^4.1.2",
     "cross-spawn": "^7.0.3",
     "csv-parser": "^3.2.0",
