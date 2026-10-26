@@ -13612,7 +13612,7 @@ __metadata:
     jest-expect-message: "npm:^1.1.3"
     jsonpath: "npm:^1.1.1"
     kafkajs: "npm:^2.2.2"
-    liquidjs: "npm:^10.7.1"
+    liquidjs: "npm:^10.25.0"
     long: "npm:^5.2.3"
     markdown-it: "npm:^13.0.1"
     minimist: "npm:^1.2.7"
@@ -16144,7 +16144,7 @@ __metadata:
     fast-deep-equal: "npm:^3.1.3"
     jest: "npm:^29.4.0"
     jest-expect-message: "npm:^1.1.3"
-    liquidjs: "npm:^10.7.1"
+    liquidjs: "npm:^10.25.0"
     lucide-react: "npm:^0.441.0"
     mjml: "npm:^4.14.1"
     postcss: "npm:^8.4.47"
@@ -21323,15 +21323,15 @@ __metadata:
   languageName: node
   linkType: hard
 
-"liquidjs@npm:^10.7.1":
-  version: 10.7.1
-  resolution: "liquidjs@npm:10.7.1"
+"liquidjs@npm:^10.25.0":
+  version: 10.25.0
+  resolution: "liquidjs@npm:10.25.0"
   dependencies:
     commander: "npm:^10.0.0"
   bin:
     liquid: bin/liquid.js
     liquidjs: bin/liquid.js
-  checksum: 10/ead97590240a98657704976091fdff33ea7bc17250921765855eb161d988ef8ac92db1bd98f4570e454b79ed010a9d406b334bbd31122a570fde034b8bce70f7
+  checksum: 10/f1bbb5c759e1b30f96165d5b1adc4a4a20883bd2e3fe817a491c945418a5a2043de61b9a05fb76fcb2c096e574cfff33dab0f6bd85bb95566e68ed17797288b4
   languageName: node
   linkType: hard
 
